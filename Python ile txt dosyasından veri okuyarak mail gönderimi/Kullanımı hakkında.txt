@@ -1,0 +1,3 @@
+Verilen isim,mail kombinasyonunda türkçe karakter kullanılmamalı 
+
+(Proje eğitim ödevi içinde olduğu için türkçe karakter entegrasyonu yapmadım)
